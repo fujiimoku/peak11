@@ -1,0 +1,15 @@
+{
+  "name": "Peak 11 · 健体冲刺",
+  "short_name": "Peak 11",
+  "description": "11天健体冲刺日志：饮食、体重、训练与日报",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#6d4fb3",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
